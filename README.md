@@ -16,19 +16,7 @@
 
 ---
 
-## 📌 Projects
-- 🔹 Django Multi-Tenant API  
-  https://github.com/Paweshashrestha/django-tenant-api-change-detection  
 
-- 🔹 IPO Automation System  
-  https://github.com/Paweshashrestha/meroshare-ipo-automation  
-
-- 🔹 Patient Management (Microservices)  
-  https://github.com/Paweshashrestha/patient-management  
-
-- 🔹 90 Days of DevOps *(ongoing)*  
-
----
 
 ## 💼 Experience
 **Junior Software Developer — Hinomaru Tech**  
