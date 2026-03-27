@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Pawesha Shrestha 👋
 
 💻 Backend Engineer → ⚙️ DevOps (in progress)  
