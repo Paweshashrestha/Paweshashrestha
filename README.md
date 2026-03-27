@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**Paweshashrestha/Paweshashrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Pawesha Shrestha 👋
 
-Here are some ideas to get you started:
+💻 Backend Engineer → ⚙️ DevOps (in progress)  
+🚀 Building: **90 Days of DevOps**  
+📍 Kathmandu, Nepal  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Building scalable systems. Automating everything possible.
+
+---
+
+## 🛠️ Tech Stack
+- Backend: Python, Django, DRF, Spring Boot  
+- Frontend: React, Next.js, TypeScript  
+- DevOps: Docker, CI/CD, GitHub Actions, Linux  
+- DB: PostgreSQL, MySQL  
+
+---
+
+## 📌 Projects
+- 🔹 Django Multi-Tenant API  
+  https://github.com/Paweshashrestha/django-tenant-api-change-detection  
+
+- 🔹 IPO Automation System  
+  https://github.com/Paweshashrestha/meroshare-ipo-automation  
+
+- 🔹 Patient Management (Microservices)  
+  https://github.com/Paweshashrestha/patient-management  
+
+- 🔹 90 Days of DevOps *(ongoing)*  
+
+---
+
+## 💼 Experience
+**Junior Software Developer — Hinomaru Tech**  
+Building scalable APIs, RBAC systems & backend services  
+
+---
+
+## 📫 Connect
+- GitHub: github.com/Paweshashrestha  
+- Portfolio: my-portfolio-gamma-two-23.vercel.app  
+- Email: pawesha24@gmail.com  
